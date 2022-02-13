@@ -1,4 +1,4 @@
-# mousikh-Plhroforikh-AUS722
+# mousikh-Plhroforikh-AUD722
 
 s.boot; //
 
